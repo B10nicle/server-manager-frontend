@@ -1,6 +1,6 @@
 ## Server Manager App
 
-This is a frontend part of a Server Manager App.
+This is a frontend part of Server Manager App.
 
 In this app you can add servers which you like and ping them to confirm if they are alive.
 
